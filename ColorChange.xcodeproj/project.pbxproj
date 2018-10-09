@@ -56,8 +56,8 @@
 		411A7F99216D22CF00A98129 /* ColorChange */ = {
 			isa = PBXGroup;
 			children = (
-				411A7FAF216D265C00A98129 /* Model */,
 				411A7FAC216D241800A98129 /* Resources */,
+				411A7FAF216D265C00A98129 /* Model */,
 				411A7FAD216D260B00A98129 /* Controller */,
 				411A7FAE216D263B00A98129 /* View */,
 			);
