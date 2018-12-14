@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 
 
-public class ColorTool
+public class LabelTool
 {
     public func createRandomColor() -> UIColor
     {
